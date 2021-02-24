@@ -1,0 +1,7 @@
+S0 dc20.utdallas.edu 1100
+S1 dc21.utdallas.edu 2200
+S2 dc22.utdallas.edu 3300
+S3 dc23.utdallas.edu 4400
+S4 dc24.utdallas.edu 5500
+S5 dc25.utdallas.edu 6600
+S6 dc26.utdallas.edu 7700
